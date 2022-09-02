@@ -1,4 +1,6 @@
-{
-test
-cool
+local passwords = {
+passwords.1 = test
+passwords.2 = cool
+passwords.3 = dev
 }
+return passwords
