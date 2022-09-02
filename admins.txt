@@ -1,4 +1,4 @@
-local adminlist = {
+
 adminlist.lukystop.Admin = true
 adminlist.erickabacate.Admin = true
 adminlist.BDFG2.Admin = true
@@ -6,5 +6,4 @@ adminlist.edga123400.Admin = true
 adminlist.im_cheatingatfnf.Admin = true
 adminlist.hackfortnitej.Admin = true
 adminlist.LegoBuildermanRBLX.Admin = false
-}
-return adminlist
+
