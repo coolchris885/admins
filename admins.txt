@@ -1,9 +1,8 @@
-
-adminlist.lukystop.Admin = true
-adminlist.erickabacate.Admin = true
-adminlist.BDFG2.Admin = true
-adminlist.edga123400.Admin = true
-adminlist.im_cheatingatfnf.Admin = true
-adminlist.hackfortnitej.Admin = true
-adminlist.LegoBuildermanRBLX.Admin = false
+lukystop.Admin = true
+erickabacate.Admin = true
+BDFG2.Admin = true
+edga123400.Admin = true
+im_cheatingatfnf.Admin = true
+hackfortnitej.Admin = true
+LegoBuildermanRBLX.Admin = false
 
