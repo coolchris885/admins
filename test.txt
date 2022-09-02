@@ -1,6 +1,6 @@
 local passwords = {}
- passwords.first = "test"
- passwords.second = "cool"
- passwords.third = "dev"
+ passwords.1 = "test"
+ passwords.2 = "cool"
+ passwords.3 = "dev"
 
 return passwords
