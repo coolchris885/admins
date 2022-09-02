@@ -1,4 +1,4 @@
-adminlist = {
+local adminlist = {
 adminlist.lukystop.Admin = true
 adminlist.erickabacate.Admin = true
 adminlist.BDFG2.Admin = true
