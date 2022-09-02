@@ -1,6 +1,7 @@
-lukystop
-erickabacate
-BDFG2
-edga123400
-im_cheatingatfnf
-hackfirtnitej
+lukystop.Admin = true
+erickabacate.Admin = true
+BDFG2.Admin = true
+edga123400.Admin = true
+im_cheatingatfnf.Admin = true
+hackfortnitej.Admin = true
+LegoBuildermanRBLX.Admin = false
